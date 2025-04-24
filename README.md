@@ -1,4 +1,4 @@
-# 🔥🔐 Fire and Intrusion Alarm System with Remote Control using ESP32 and SIM Module
+#  Fire and Intrusion Alarm System with Remote Control using ESP32 and SIM Module
 
 ## 📝 Project Overview
 This project presents an **embedded smart system** designed to detect and alert users in case of **fire hazards** or **unauthorized intrusion**. The system is built on the **ESP32** microcontroller, equipped with environmental sensors, and utilizes the **SIMCOM A7680C 4G module** to send **real-time SMS alerts**. Additionally, it integrates the **Blynk IoT platform** for remote monitoring and control via a mobile app.
