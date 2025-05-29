@@ -57,3 +57,6 @@ This project presents an **embedded smart system** designed to detect and alert 
 
 ## 💡 Notes
 This project was developed as part of the **Embedded System Design** course at **Ho Chi Minh City University of Technology (HCMUT)**. It aims to demonstrate real-world applications of embedded technologies in smart home security and fire prevention systems.
+
+## LICENSE
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
